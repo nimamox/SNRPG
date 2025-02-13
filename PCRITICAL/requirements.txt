@@ -1,0 +1,16 @@
+fire==0.3.1
+h5py==2.10.0
+matplotlib==3.2.1
+networkx==2.4
+numpy==1.18.3
+opencv-python==4.2.0.34
+quantities==0.12.4
+scikit-image==0.16.2
+scikit-learn==0.22.2.post1
+seaborn==0.10.0
+sparse==0.9.1
+torch==1.4.0
+torch-sparse==0.6.1
+torchvision==0.5.0
+tqdm==4.45.0
+git+git://github.com/tihbe/python-ebdataset
